@@ -1,0 +1,22 @@
+.table {
+  margin-top: 40px;
+}
+
+.table table {
+  width: 500px;
+}
+
+.table table thead {
+  background-color: red;
+}
+.table table thead th {
+  text-align: left;
+  padding: 8px;
+  border-radius: 8px;
+}
+.table table tbody td {
+  text-align: left;
+  padding: 8px;
+  background-color: #eee;
+  border-radius: 8px;
+}

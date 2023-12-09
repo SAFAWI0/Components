@@ -1,0 +1,52 @@
+.primary {
+    background-color:#eee;
+    border: none;
+    border: 1px solid red;
+    border-radius: 8px;
+    color: #000;
+    margin-bottom: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .primary:hover {
+    background-color: red;
+    color: #eee;
+  }
+  
+  .secondary {
+    background-color:#eee;
+    border: none;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    color: rgb(1, 190, 1);
+    margin-bottom: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+  
+  .secondary:hover {
+    background-color: white;
+    color: rgb(12, 179, 12);
+  }
+  
+  .default {
+    background-color:#000;
+    border: none;
+    border: 1px solid #000;
+    border-radius: 8px;
+    color: #eee;
+    margin-bottom: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .default:hover {
+    background-color:#eee;
+    color: #000;
+  }
+  
